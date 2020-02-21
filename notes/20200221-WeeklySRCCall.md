@@ -1,0 +1,22 @@
+- Discussion of the Colorado Data
+  - Ken shows the MongoDb and its features, in particular range queries
+  
+- Census data via Ken
+  - census blocks only
+    - 27,000 variables?? For all those census blocks
+      - so which variables?
+    - census blocks are logical areas bounded by real things like streets, streams, transmission lines but also abstract things like property lines
+      - e.g., a city block or in rural areas, much larger up to 100s of square miles
+      - nest inside other things like block groups
+      - unique number ID within a tract
+      - first number is the block group, zero is "water only" areas
+    - block groups have 600 - 3,000 people and are statistical clusters of blacks within the same census tract
+      -  generally determined locally
+      - EJ screen data is only available by block group
+        - Kate explains block versus block group was a division we made to protect privacy, so maybe that's why'
+        - Ramona says EJ screen explains it's also to clamp down on variability statistically
+      - hope to stitch/buffer something representative from the EPA and get a sense of where they live adn what their stuff is, gardenroots or USGS
+        - I ask why we don't just use the USGS data instead of the gardenroots data
+          - Ramona suggests using the Gardenroots data
+          - I sugggest summary statistics versus variability and also getting more citizen science
+  - epa screen data has different variable names, api unclear
