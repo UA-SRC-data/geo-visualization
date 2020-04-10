@@ -32,3 +32,4 @@ Monica update on GardenRoots Data
     - color === agency name/type of standard
       - might want to be consistennt with GardenRoots here?
   - private is the true data without the exact location but she has the lat/long elsewhere
+- New data from Pinal/Gila counties
