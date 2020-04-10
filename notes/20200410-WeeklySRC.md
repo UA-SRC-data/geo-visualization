@@ -17,6 +17,8 @@ Ken Data-Update, Data-Types
     - EJScreen end points include the variable definitions and the measurements
       - So now we have a way to create GET strings and an interface to test them out
 - Ramona suggests bringing in the GardenRoots data next
+- https://github.com/UA-SRC-data/data_loaders/tree/master/point2census
+  - This will changeg a lat/long to a block group
 
 Monica update on GardenRoots Data
 
