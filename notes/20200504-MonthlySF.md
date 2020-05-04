@@ -4,3 +4,6 @@
 
 * Discussion of new website
   * Vis might go under "Resources" section.
+  
+* Nirav & Aikseng doing Data Core stuff offline
+  * Will lead next meeting on Data Core stufff
