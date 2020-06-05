@@ -5,6 +5,7 @@ Ramona asks Monica what to do with below detection limit data?
   - Half LOD is what Monica visualizes it
     - Reports at BDL for publicationn
 - Never report a zero!
+- Need to choose a consistent label -- we'll do BDL
 
 
 Kate does data vis presentation
