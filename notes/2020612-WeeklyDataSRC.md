@@ -12,3 +12,9 @@ What data do we have?
 Kai and Priyanka work out how much of the data is represented on Cyverse right now
 
 - Some is not there yet, but Priyanka will make a skeleton for Kai
+
+Visualization
+
+- Kai suggests PlanetMicrobe
+- Dorsey is going to get a good base of ontological vis that other people have done
+  - Expect this mid-July and invite Bianca
