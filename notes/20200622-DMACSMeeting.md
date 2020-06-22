@@ -17,6 +17,7 @@ Monica & Kate give overview of internal use case
 Michelle has pretty good full stack experience. Nirav is concerned about the software engineering culture of our group and Michelle brings that to the table.
 
 - Raina brings up the training aspects of this
+- Monica has existing online training from another project
 
 Nirav is concerned about the development culture and not being silo'd... need something to be the soul of the project.
 
