@@ -33,3 +33,5 @@ Monica, Dorsey, Kate
     - forecasting programs with oddd visualizations
       - lead forecasting programs in certain counnties due to clean air act
       - their maps we should look at
+      
+- FAIR Access coupled with visualization, this is a new interesting idea to explore
