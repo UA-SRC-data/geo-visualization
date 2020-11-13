@@ -9,6 +9,10 @@ Dorsey is using Tableau with TIGR line shape files to see if she can join data s
   - we have tracts, not sure how that matches with county
 - Ramona suggests we standardize on terms from Darwin Core (location ID, county, breakinng lat/long into two fields, verbatim locality?)
 - Dorsey also heard back from RDC
+  - No mapping is allowed by them, but we can create indices internally and they want to see the whole draft
+  - Also, they only give things to the county level and that's still restricted use though available on their website
+    - maybe they mean that for visualization only
+  - We may want to compare across states 
 
 Ramona asks what other metadata we want to colllect
 
