@@ -28,3 +28,24 @@ Thu shows address search
       - Want a risk-based value and a screening value... in arsenic this is 1 and 10 respectively
     - Project Harvest gives the average across all samples submitted 
     - Also show the full range of everything in the database
+
+We find a messed up aluminum data in the in the GardenRoots arscenic data as a really red area when we visualize it. 
+
+ - Monica instantly knows that they did not re-download the GardenRoots data to fix this. That's really fast.
+
+Eventual detail view, Dorsey will look it up.
+
+Kate asks about "report to the local government"
+
+- https://www.azdeq.gov/feedback
+- we can track clicks but not pre-fill-it or find out if it was actually submitted
+
+Jackson clarifies some design mockup things
+
+- the buttons between map, bar graph, and data on the right
+- the question map button will give more information about the interface and the data
+  - About Data is about currenlty selected data
+  - Questionmark is the actual full help
+  - buton next to 'about data' is showing the whole variable name even when long 
+
+
