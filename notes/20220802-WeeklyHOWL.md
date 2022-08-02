@@ -40,6 +40,7 @@ Kate, Monica, Alma, Jackson
     - Monica refines it based on question
     - Maybe the rightmost column in Tables 1 and 2 for the measure, and the left most column for the Topic
       - Okay so Topic is "Data Description" (leftmost column) and Measure is "Variable Categories" (rightmost column) and then pull from ontology becomes the filters
+      - Alma suggests meeting osme time to figure out the details. Kate suggests Jackson try based on the paper and when that inevitably runs into corner cases, meet up with Alma.
 
 - Jackson asks about employment vs. labor force status
   - Monica thinks labor force status is the categories of employment (e.g., mining) and employment is the counts
